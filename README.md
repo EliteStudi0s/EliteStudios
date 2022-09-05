@@ -5,7 +5,8 @@
 
 
 
-Skills: Linux | Java | Spring Boot | Spring | JavaScript | NodeJS | React | C Family | Python | Docker | UX/UI | HTML & CSS | Grapics Designing.
+Skills: Linux | Java | Spring Boot | Spring | JavaScript | NodeJS | React | C Family | R language | Python | Docker | UX/UI | HTML & CSS
+Grapics Designing.
 
 
 - 📫 How to reach us **elite.studios4007@gmail.com**
@@ -34,6 +35,7 @@ Skills: Linux | Java | Spring Boot | Spring | JavaScript | NodeJS | React | C Fa
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" title="PhotoShop" alt="PhotoShop" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" title="Adobe XD " alt="PhotoShop" width="40" height="40"/>
 <img src="https://i.pinimg.com/736x/28/dd/3d/28dd3d07bc8cb7a2e6482492e988ce52.jpg" title="Illustrator" alt="Illustrator" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" title="R language " alt="R language " width="40" height="40"/>
 </div>
 
 <br/>
